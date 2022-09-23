@@ -1,0 +1,28 @@
+.sub-title{
+    margin-top: -5px;
+    font-weight: 600;
+    color: #555;
+    margin-bottom: 55px;
+}
+
+.pp-section{
+    padding: 100px 0 85px 0;
+}
+
+.section-header{
+    margin-bottom: 35px;
+}
+
+.plan-style{
+    margin: auto;
+    text-align: center;
+    background-color: #fff;
+    position: relative;
+    border-radius: 30px;
+    transition: all .3s ease-in-out;
+}
+
+.plan-style .bg-btn{
+    background: linear-gradient(to right, #9e9e9e, #eceff1);
+    background-size: 300% 100%;
+}
